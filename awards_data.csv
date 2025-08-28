@@ -1,0 +1,67 @@
+﻿DEPT,STATE CONTROL NUMBER,PROGRAM TITLE,AWARD TYPE,2017-18,2018-19,2019-20,2020-21,2021-22,2022-23,2023-24,2024-25,2025-26
+ACCT,3824,Accounting Associate in Science Degree,Associate in Science Degree,5,10,8,12,14,13,15,20,7
+ACCT,21255,Accounting Certificate,Certificate,4,7,1,11,3,5,8,1,0
+ACCT,40657,Advanced Bookkeeping Certificate,Certificate,0,0,0,0,0,0,1,2,0
+ACCT,40664,Cost Accounting Certificate,Certificate,0,0,0,0,0,0,0,0,0
+ACCT,40663,Entry-Level Accounting Certificate,Certificate,0,0,0,0,0,4,2,2,0
+ACCT,40992,Individual Taxation Certificate,Certificate,0,0,0,0,0,0,0,1,0
+ACCT,40669,Payroll Accounting Certificate,Certificate,0,0,0,0,0,0,1,1,0
+ACCT,40671,Small Business Bookkeeping Certificate,Certificate,0,0,0,0,0,1,1,1,0
+BUS,3823,Business Administration Associate in Arts Degree,Associate in Arts Degree,66,123,111,88,122,119,141,143,62
+BUS,42562,Business Administration Associate in Science Degree for Transfer 2.0,Associate in Science Degree For Transfer,146,258,263,236,252,252,268,236,59
+BUS,40553,Business Data Analytics Certificate,Certificate,0,0,0,0,0,0,0,1,0
+BUS,41398,Business Economics Certificate (N 2021),Certificate,0,0,0,0,0,1,11,3,0
+BUS,8387,Business Management Associate in Science Degree,Associate in Science Degree,4,9,12,8,18,23,32,35,22
+BUS,21256,Business Management Certificate,Certificate,2,2,1,3,1,3,2,3,0
+BUS,40973,Business Networking and Sales Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,11688,Business Skills Certificate,Certificate,0,0,0,0,0,0,2,3,0
+BUS,42926,Cannabis Management Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,2C00033,Cert Real Estate Sales Skills,Certificate,0,1,0,0,0,0,0,0,0
+BUS,39439,Digital Marketing Certificate,Certificate,0,0,0,3,0,0,3,2,0
+BUS,8388,Entrepreneurship Associate in Science Degree,Associate in Science Degree,0,3,3,4,4,2,5,3,1
+BUS,21257,Entrepreneurship Certificate,Certificate,0,1,0,2,1,0,1,1,0
+BUS,42489,Entrepreneurship Skills Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,41268,Finance Certificate,Certificate,0,0,0,0,0,0,2,1,0
+BUS,40522,Finance Skills Certificate,Certificate,0,0,0,0,0,0,2,0,0
+BUS,40991,Financial Accounting Certificate,Certificate,0,0,0,0,0,1,4,0,0
+BUS,40964,Human Resources Management Certificate,Certificate,0,0,0,0,0,0,8,1,0
+BUS,8391,International Business Management Associate in Science Degree,Associate in Science Degree,0,1,3,2,2,3,3,1,1
+BUS,40645,International Business Management Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,21258,International Business Skills Certificate,Certificate,0,0,0,0,0,0,2,0,0
+BUS,3825,Marketing Management Associate in Science Degree,Associate in Science Degree,0,2,5,3,3,6,1,4,2
+BUS,37109,Marketing Management Certificate,Certificate,0,0,0,2,1,1,0,1,0
+BUS,40974,Marketing Management Skills Certificate,Certificate,0,0,0,0,0,0,1,0,0
+BUS,40676,Mobile Applications Entrepreneur Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,37107,Real Estate Brokers Certificate,Certificate,0,0,0,0,4,3,4,2,0
+BUS,44757,Real Estate Law Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,3826,Real Estate Management Associate in Science Degree,Associate in Science Degree,2,4,3,1,2,8,10,11,11
+BUS,21260,Real Estate Management Certificate,Certificate,0,1,0,0,1,3,5,2,0
+BUS,40640,Real Estate Sales Skills Certificate,Certificate,0,0,0,0,0,0,11,5,0
+BUS,36705,Retail Management Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,43687,Supply Chain Management Certificate,Certificate,0,0,0,0,0,0,0,0,0
+BUS,40675,The Business of Art Certificate,Certificate,0,0,0,0,0,0,0,0,0
+CIS,43874,Cloud Computing and Security Skills Certificate,Certificate,0,0,0,0,0,0,0,0,0
+CIS,44175,Cloud Computing Certificate,Certificate,0,0,0,0,0,0,0,0,0
+CIS,40659,Computer Game Design Certificate,Certificate,0,0,0,0,0,0,0,0,0
+CIS,40677,Computer Game Programming Skills Certificate,Certificate,0,0,0,0,0,0,0,1,0
+CIS,3831,Computer Information Systems Associate in Science Degree,Associate in Science Degree,10,11,6,15,24,27,32,26,13
+CIS,21267,Computer Information Systems Certificate,Certificate,3,4,0,3,2,7,4,1,0
+CIS,37146,Computer Technician Analyst Certificate,Certificate,0,0,1,0,0,0,0,0,0
+CIS,37099,Computer Technician Apprentice Skills Certificate,Certificate,0,0,0,0,0,0,1,1,0
+CIS,36689,Cyber Security Analyst Certificate,Certificate,0,0,0,2,10,5,4,0,0
+CIS,40795,Cyber Security Associate in Science Degree,Associate in Science Degree,0,0,0,0,4,2,6,11,1
+CIS,36690,Cyber Security Master Certificate,Certificate,0,0,0,0,9,7,3,1,0
+CIS,36702,Cyber Security Technician Certificate,Certificate,0,0,4,11,0,0,6,3,0
+CIS,36693,Networking Certificate,Certificate,0,0,0,1,0,0,0,0,0
+CIS,42887,Networking Skills Certificate,Certificate,0,0,0,0,0,0,1,2,0
+CIS,37173,Office Applications Apprentice Certificate,Certificate,0,0,0,1,0,0,0,1,0
+CIS,37108,Office Applications Technician Certificate,Certificate,0,0,0,0,0,0,0,0,0
+CIS,36698,Programming Certificate,Certificate,0,0,0,0,0,0,1,0,0
+CIS,44065,Programming Skills Certificate,Certificate,0,0,0,0,0,0,0,0,0
+CIS,37106,Web Design Certificate,Certificate,0,1,0,1,2,0,1,0,0
+CIS,37148,Web Design Skills Certificate,Certificate,0,2,0,1,0,0,1,1,0
+PLEG,44755,Criminal Law Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
+PLEG,44758,eDiscovery and Technology Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
+PLEG,44756,Law School First-Year Prep Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
+PLEG,8434,Paralegal Studies Associate in Science Degree,Associate in Science Degree,17,28,17,30,33,20,23,17,4
+PLEG,21275,Paralegal Studies Certificate,Certificate,13,33,26,38,55,37,27,14,0
