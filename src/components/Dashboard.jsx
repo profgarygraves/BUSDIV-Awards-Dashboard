@@ -1,3 +1,4 @@
+import csvUrl from '../data/awards_data.csv?url';
 import React, { useEffect, useMemo, useState } from "react";
 import Papa from "papaparse";
 
@@ -79,8 +80,7 @@ export default function Dashboard() {
     async function load() {
       try {
         setLoadError("");
-        const csvPath = (import.meta.env.BASE_URL || "/") + "awards_data.csv";
-        const res = await fetch(csvPath);
+        const res = await fetch(csvUrl);
         if (!res.ok) throw new Error(`HTTP ${res.status} loading ${csvPath}`);
         const text = await res.text();
         const data = parseCsvText(text);
