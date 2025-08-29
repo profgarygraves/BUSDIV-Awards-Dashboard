@@ -33,7 +33,7 @@ BUS,37109,Marketing Management Certificate,Certificate,0,0,0,2,1,1,0,1,0
 BUS,40974,Marketing Management Skills Certificate,Certificate,0,0,0,0,0,0,1,0,0
 BUS,40676,Mobile Applications Entrepreneur Certificate,Certificate,0,0,0,0,0,0,0,0,0
 BUS,37107,Real Estate Brokers Certificate,Certificate,0,0,0,0,4,3,4,2,0
-BUS,44757,Real Estate Law Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
+PLEG,44757,Real Estate Law Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
 BUS,3826,Real Estate Management Associate in Science Degree,Associate in Science Degree,2,4,3,1,2,8,10,11,11
 BUS,21260,Real Estate Management Certificate,Certificate,0,1,0,0,1,3,5,2,0
 BUS,40640,Real Estate Sales Skills Certificate,Certificate,0,0,0,0,0,0,11,5,0
@@ -64,4 +64,5 @@ PLEG,44755,Criminal Law Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
 PLEG,44758,eDiscovery and Technology Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
 PLEG,44756,Law School First-Year Prep Specialty Certificate,Certificate,0,0,0,0,0,0,0,0,0
 PLEG,8434,Paralegal Studies Associate in Science Degree,Associate in Science Degree,17,28,17,30,33,20,23,17,4
+
 PLEG,21275,Paralegal Studies Certificate,Certificate,13,33,26,38,55,37,27,14,0
